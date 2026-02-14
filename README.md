@@ -1,4 +1,4 @@
-\# 🌍 Monitoreo Ambiental AIoT (ESP32 + Python + PostgreSQL)
+\# 🌍 Monitoreo Ambiental IoT (ESP32 + Python + PostgreSQL)
 
 
 
