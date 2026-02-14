@@ -1,7 +1,7 @@
 # 🌍 Monitoreo Ambiental AIoT (ESP32 + Python + PostgreSQL)
 
 [![Demostración del Proyecto](https://img.youtube.com)](https://www.youtube.com/watch?v=CHUrBSHAXWI)
-*Haz clic en la imagen de arriba para ver la demostración del sistema en tiempo real en YouTube.*
+*Haz clic para ver la demostración del sistema en tiempo real en YouTube.*
 
 
 Sistema de monitoreo de temperatura y humedad en tiempo real con arquitectura desacoplada, alertas inteligentes de confort ambiental y una API REST para consulta de datos históricos.
