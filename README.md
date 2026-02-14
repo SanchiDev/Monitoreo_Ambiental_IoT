@@ -1,4 +1,4 @@
-# 🌍 Monitoreo Ambiental AIoT (ESP32 + Python + PostgreSQL)
+# 🌍 Monitoreo Ambiental IoT (ESP32 + Python + PostgreSQL)
 
 [![Demostración del Proyecto](https://img.youtube.com)](https://www.youtube.com/watch?v=CHUrBSHAXWI)
 *Haz clic para ver la demostración del sistema en tiempo real en YouTube.*
